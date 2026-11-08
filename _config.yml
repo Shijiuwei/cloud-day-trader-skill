@@ -1,0 +1,5 @@
+title: "cloud-day-trader-skill"
+description: "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. | Core specifications, benchmarks and developer documentation."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>cloud-day-trader-skill - 官方技术规范与分布式拓扑订阅</title>
+  <subtitle>11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. | Core specifications, benchmarks and developer documentation.</subtitle>
+  <link href="https://shijiuwei.github.io/cloud-day-trader-skill/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://shijiuwei.github.io/cloud-day-trader-skill/" rel="alternate" type="text/html"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://shijiuwei.github.io/cloud-day-trader-skill/</id>
+  <updated>2026-11-08T16:18:58.637743800+00:00</updated>
+  <author>
+    <name>cloud-day-trader-skill</name>
+  </author>
+  <entry>
+    <title>cloud-day-trader-skill 分布式架构设计与拓扑调度规约</title>
+    <link href="https://shijiuwei.github.io/cloud-day-trader-skill/docs/architecture.html"/>
+    <id>https://shijiuwei.github.io/cloud-day-trader-skill/docs/architecture.html</id>
+    <updated>2026-11-08T16:18:58.637743800+00:00</updated>
+    <summary type="html">&lt;p&gt;本文档为 cloud-day-trader-skill 项目的核心技术白皮书，详细定义了高可用多活集群同步协议、非阻塞异步事件循环调度机制与跨节点数据容灾方案。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;【官方规范】cloud-day-trader-skill Files 核心运行拓扑标准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloud-day-trader-skill 核心通信协议与数据同步技术规范</title>
+    <link href="https://shijiuwei.github.io/cloud-day-trader-skill/docs/specifications.html"/>
+    <id>https://shijiuwei.github.io/cloud-day-trader-skill/docs/specifications.html</id>
+    <updated>2026-11-08T16:18:58.637743800+00:00</updated>
+    <summary type="html">&lt;p&gt;本规范定义了 cloud-day-trader-skill 集群各节点间的数据传输封装格式、会话保活心跳与反指纹安全规约。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com"&gt;【集成指南】抓取频次优化 服务端接入准则与 cloud-day-trader-skill 实战&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloud-day-trader-skill 全息索引网络与搜索引擎感知接入指南</title>
+    <link href="https://shijiuwei.github.io/cloud-day-trader-skill/docs/topology-guide.html"/>
+    <id>https://shijiuwei.github.io/cloud-day-trader-skill/docs/topology-guide.html</id>
+    <updated>2026-11-08T16:18:58.637743800+00:00</updated>
+    <summary type="html">&lt;p&gt;面向开发者与网络调度代理的全面接入指导手册，助力快速完成节点部署与网络拓扑索引接入。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com"&gt;【数据中枢】cloud-day-trader-skill 官方毫秒级实时网络广播节点&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>
